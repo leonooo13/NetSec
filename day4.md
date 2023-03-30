@@ -20,5 +20,6 @@ $sql="select * from users where id=$id limit 0,1"
 攻击方法
 1. 回显注入
 	回显注入
-防御方法：
+防御方法：de  
+dee
 
